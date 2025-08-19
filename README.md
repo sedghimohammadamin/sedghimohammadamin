@@ -1,4 +1,4 @@
-# 🌟 Mobile Apps Portfolio – [Al-Baseera](https://github.com/Sedghimohammadamin/Albaseera) & [Mahdi TV](https://github.com/Sedghimohammadamin/MahdiTV)
+# 🌟 Mobile Apps Portfolio – [Al-Baseera](https://github.com/Sedghimohammadamin/Al-baseera) & [Mahdi TV](https://github.com/Sedghimohammadamin/Mahdi-TV)
 
 ---
 
