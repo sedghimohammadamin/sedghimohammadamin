@@ -4,9 +4,9 @@
 
 ## 🇬🇧 English Version
 
-Welcome to this portfolio! Explore my main mobile applications, showcasing skills in Flutter, clean architecture, state management, and hybrid data handling. Both apps are multilingual, support multiple themes, and provide advanced features for a seamless user experience.
+Welcome! Explore my main mobile applications, showcasing skills in Flutter, clean architecture, state management, and hybrid data handling. Both apps are multilingual, support multiple themes, and provide advanced features for a seamless user experience.
 
-### 1️⃣ [Al-Baseera](https://github.com/Sedghimohammadamin/Al-Baseera) – بصیرت | البصيرة | Al-Baseera
+### 1️⃣ [Al-Baseera](https://github.com/Sedghimohammadamin/Al-Baseera)
 
 **Project Summary:**  
 Al-Baseera is a full-featured, multilingual mobile app providing seamless access to a wide collection of content. Works online & offline.
@@ -20,7 +20,7 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 - 📤 Share Functionality  
 - 🔄 Works Online & Offline
 
-### 2️⃣ [Mahdi TV](https://github.com/Sedghimohammadamin/Mahdi-TV) – مهدی تی وی | مهدي تي في | Mahdi TV
+### 2️⃣ [Mahdi TV](https://github.com/Sedghimohammadamin/Mahdi-TV)
 
 **Project Summary:**  
 Mahdi TV is a versatile mobile app combining multiple tools and live streaming support. Supports multiple languages and themes.
@@ -31,22 +31,16 @@ Mahdi TV is a versatile mobile app combining multiple tools and live streaming s
 - 🎨 Dual Theme Support  
 - 🌐 Multilingual Support: 3 languages
 
-### 📊 Portfolio Overview
+### 📊 Portfolio Overview (English Table)
 
-| Feature / Project | 🌟 بصیرت | 🌟 مهدی تی وی |
-|-------------------|------------|---------------|
-| Purpose | Online & offline content access | All-in-one utility + live streaming |  
-| Core Features | Search, Favorites, Share, Splash Screen | Multiple tools, Live streaming |  
-| Languages | 5 | 3 |  
-| Themes | 2 (light/dark) | 2 (light/dark) |  
-| Data System | Online server + offline database | Online + live streaming |  
+| Feature | Al-Baseera | Mahdi TV |
+|---------|------------|----------|
+| Purpose | Online & offline content access | All-in-one utility + live streaming |
+| Core Features | Search, Favorites, Share, Splash Screen | Multiple tools, Live streaming |
+| Languages | 5 | 3 |
+| Themes | 2 (light/dark) | 2 (light/dark) |
+| Data System | Online server + offline database | Online + live streaming |
 | Technical Stack | Flutter, Provider, Custom State Management | Flutter, Clean Architecture, State Management, Live Streaming |
-
-### 📌 Contact & Links
-
-- GitHub: [https://github.com/Sedghimohammadamin](https://github.com/Sedghimohammadamin)  
-- Telegram: [@Sedghimohammadamin](https://t.me/Sedghimohammadamin)  
-- Email: Sedghi.mohammadamin2008@gmail.com  
 
 ---
 
@@ -54,7 +48,7 @@ Mahdi TV is a versatile mobile app combining multiple tools and live streaming s
 
 به این پورتفولیو خوش آمدید! در اینجا نمونه اپلیکیشن‌های موبایل من را می‌بینید که مهارت‌هایم در Flutter، معماری تمیز، مدیریت وضعیت و مدیریت داده‌ها را نشان می‌دهد.
 
-### 1️⃣ [بصیرت](https://github.com/Sedghimohammadamin/Al-Baseera) – البصيرة | Al-Baseera
+### 1️⃣ [بصیرت](https://github.com/Sedghimohammadamin/Al-Baseera)
 
 **خلاصه پروژه:**  
 «بصیرت» یک اپلیکیشن کامل و چندزبانه برای دسترسی به محتوای گسترده است. هم آنلاین و هم آفلاین کار می‌کند.
@@ -68,7 +62,7 @@ Mahdi TV is a versatile mobile app combining multiple tools and live streaming s
 - 📤 امکان به اشتراک‌گذاری  
 - 🔄 کار آنلاین و آفلاین
 
-### 2️⃣ [مهدی تی وی](https://github.com/Sedghimohammadamin/Mahdi-TV) – مهدي تي في | Mahdi TV
+### 2️⃣ [مهدی تی وی](https://github.com/Sedghimohammadamin/Mahdi-TV)
 
 **خلاصه پروژه:**  
 «مهدی تی وی» اپلیکیشن چندکاره موبایل با ابزارهای مختلف و پخش زنده است. پشتیبانی از چند زبان و دو تم دارد.
@@ -79,30 +73,24 @@ Mahdi TV is a versatile mobile app combining multiple tools and live streaming s
 - 🎨 دو تم  
 - 🌐 پشتیبانی چندزبانه: ۳ زبان
 
-### 📊 جدول ویژگی‌ها
+### 📊 جدول ویژگی‌ها (فارسی)
 
-| ویژگی / پروژه | 🌟 بصیرت | 🌟 مهدی تی وی |
-|---------------|------------|---------------|
-| هدف | دسترسی آنلاین و آفلاین به محتوا | ابزار چندکاره + پخش زنده |  
-| ویژگی‌های اصلی | جستجو، موردعلاقه، اشتراک‌گذاری، اسپلش اسکرین | ابزارهای مختلف، پخش زنده |  
-| زبان‌ها | ۵ | ۳ |  
-| تم‌ها | ۲ (روشن/تاریک) | ۲ (روشن/تاریک) |  
-| سیستم داده | سرور آنلاین + دیتابیس آفلاین | آنلاین + پخش زنده |  
+| ویژگی | بصیرت | مهدی تی وی |
+|-------|--------|------------|
+| هدف | دسترسی آنلاین و آفلاین به محتوا | ابزار چندکاره + پخش زنده |
+| ویژگی‌های اصلی | جستجو، موردعلاقه، اشتراک‌گذاری، اسپلش اسکرین | ابزارهای مختلف، پخش زنده |
+| زبان‌ها | ۵ | ۳ |
+| تم‌ها | ۲ (روشن/تاریک) | ۲ (روشن/تاریک) |
+| سیستم داده | سرور آنلاین + دیتابیس آفلاین | آنلاین + پخش زنده |
 | تکنولوژی | Flutter، Provider، مدیریت وضعیت سفارشی | Flutter، معماری تمیز، مدیریت وضعیت، پخش زنده |
-
-### تماس و لینک‌ها
-
-- GitHub: [https://github.com/Sedghimohammadamin](https://github.com/Sedghimohammadamin)  
-- Telegram: [@Sedghimohammadamin](https://t.me/Sedghimohammadamin)  
-- Email: Sedghi.mohammadamin2008@gmail.com  
 
 ---
 
 ## 🇸🇦 النسخة العربية
 
-مرحباً بكم في هذه المحفظة! هنا يمكنك استكشاف تطبيقاتي الرئيسية للهواتف المحمولة، والتي تعرض مهاراتي في Flutter، الهندسة النظيفة، إدارة الحالة، وإدارة البيانات أونلاين وأوفلاين.
+مرحباً بكم! هنا يمكنكم استكشاف تطبيقاتي الرئيسية للهواتف المحمولة والتي تعرض مهاراتي في Flutter، الهندسة النظيفة، إدارة الحالة، وإدارة البيانات أونلاين وأوفلاين.
 
-### 1️⃣ [البصيرة](https://github.com/Sedghimohammadamin/Al-Baseera) – بصیرت | Al-Baseera
+### 1️⃣ [البصيرة](https://github.com/Sedghimohammadamin/Al-Baseera)
 
 **ملخص المشروع:**  
 «البصيرة» تطبيق متعدد اللغات للوصول إلى محتوى واسع، يعمل أونلاين وأوفلاين.
@@ -116,7 +104,7 @@ Mahdi TV is a versatile mobile app combining multiple tools and live streaming s
 - 📤 إمكانية المشاركة  
 - 🔄 يعمل أونلاين وأوفلاين
 
-### 2️⃣ [مهدي تي في](https://github.com/Sedghimohammadamin/Mahdi-TV) – مهدی تی وی | Mahdi TV
+### 2️⃣ [مهدي تي في](https://github.com/Sedghimohammadamin/Mahdi-TV)
 
 **ملخص المشروع:**  
 «مهدي تي في» تطبيق محمول متعدد الوظائف مع أدوات مختلفة ودعم البث المباشر. يدعم عدة لغات وثيمات.
@@ -127,18 +115,7 @@ Mahdi TV is a versatile mobile app combining multiple tools and live streaming s
 - 🎨 دعم ثيمين  
 - 🌐 دعم متعدد اللغات: ٣ لغات
 
-### 📊 جدول المميزات
-
-| الميزة / المشروع | 🌟 البصيرة | 🌟 مهدي تي في |
-|-----------------|------------|---------------|
-| الهدف | الوصول إلى المحتوى أونلاين وأوفلاين | أدوات متعددة + البث المباشر |  
-| المميزات الأساسية | البحث، المفضلات، المشاركة، شاشة البداية | أدوات متعددة، البث المباشر |  
-| اللغات | ٥ | ٣ |  
-| الثيمات | ٢ (فاتح/داكن) | ٢ (فاتح/داكن) |  
-| نظام البيانات | خادم أونلاين + قاعدة بيانات أوفلاين | أونلاين + البث المباشر |  
-| التكنولوجيا | Flutter، Provider، إدارة الحالة المخصصة | Flutter، الهندسة النظيفة، إدارة الحالة، البث المباشر |
-
-### روابط التواصل
+### 📌 روابط التواصل / Contact & Links
 
 - GitHub: [https://github.com/Sedghimohammadamin](https://github.com/Sedghimohammadamin)  
 - Telegram: [@Sedghimohammadamin](https://t.me/Sedghimohammadamin)  
