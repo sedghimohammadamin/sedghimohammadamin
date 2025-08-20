@@ -1,10 +1,8 @@
-# 🌟 Mobile Apps Portfolio – [Al-Baseera](https://github.com/Sedghimohammadamin/Al-baseera) & [Mahdi TV](https://github.com/Sedghimohammadamin/Mahdi-TV)
+# 🌟 Mobile Apps Portfolio – [Al-Baseera](https://github.com/Sedghimohammadamin/Al-baseera) & [Mahdi TV](https://github.com/Sedghimohammadamin/Mahdi-tv)
 
 ---
 
 ## 📑 Table of Contents / فهرست / الفهرس  
-
-<div style="background-color:#F9F9F9; padding:12px; border-radius:10px;">
 
 ### 🇬🇧 English
 - [Al-Baseera](#1️⃣-al-baseera)  
@@ -18,8 +16,6 @@
 - [البصيرة](#1️⃣-البصيرة)  
 - [مهدي تي في](#2️⃣-مهدي-تي-في)  
 
-</div>
-
 ---
 
 ## 🇬🇧 English Version
@@ -29,12 +25,10 @@ Both apps are multilingual 🌐, support multiple themes 🎨, and provide advan
 
 ---
 
-### 1️⃣ [Al-Baseera](https://github.com/Sedghimohammadamin/Albaseera)
+### 1️⃣ [Al-Baseera](https://github.com/Sedghimohammadamin/Al-baseera)
 
 **📖 Project Summary:**  
 Al-Baseera is a full-featured, multilingual mobile app providing seamless access to a wide collection of content. Works **online & offline** 🔄.
-
-**✨ Key Features / Updates:**
 
 <div style="background-color:#DCEEFB; padding:10px; border-radius:8px">
 
@@ -52,12 +46,10 @@ Al-Baseera is a full-featured, multilingual mobile app providing seamless access
 
 ---
 
-### 2️⃣ [Mahdi TV](https://github.com/Sedghimohammadamin/MahdiTV)
+### 2️⃣ [Mahdi TV](https://github.com/Sedghimohammadamin/Mahdi-tv)
 
 **📖 Project Summary:**  
 Mahdi TV is a versatile mobile app combining multiple tools including **Live Streaming** 📺 and **Quran Audio** 🎧. Supports multiple languages 🌐 and themes 🎨.
-
-**✨ Key Features / Updates:**
 
 <div style="background-color:#DFF6DD; padding:10px; border-radius:8px">
 
@@ -79,7 +71,7 @@ Mahdi TV is a versatile mobile app combining multiple tools including **Live Str
 
 ---
 
-### 1️⃣ [بصیرت](https://github.com/Sedghimohammadamin/Albaseera)
+### 1️⃣ [بصیرت](https://github.com/Sedghimohammadamin/Al-baseera)
 
 **📖 خلاصه پروژه:**  
 «بصیرت» یک اپلیکیشن کامل و چندزبانه برای دسترسی به محتوای گسترده است. **هم آنلاین و هم آفلاین** 🔄.
@@ -100,7 +92,7 @@ Mahdi TV is a versatile mobile app combining multiple tools including **Live Str
 
 ---
 
-### 2️⃣ [مهدی تی وی](https://github.com/Sedghimohammadamin/MahdiTV)
+### 2️⃣ [مهدی تی وی](https://github.com/Sedghimohammadamin/Mahdi-tv)
 
 **📖 خلاصه پروژه:**  
 «مهدی تی وی» اپلیکیشن چندکاره موبایل با ابزارهای مختلف از جمله **پخش زنده** 📺 و **پخش صوت قرآن** 🎧 است. پشتیبانی از چند زبان 🌐 و دو تم 🎨 دارد.
@@ -125,7 +117,7 @@ Mahdi TV is a versatile mobile app combining multiple tools including **Live Str
 
 ---
 
-### 1️⃣ [البصيرة](https://github.com/Sedghimohammadamin/Albaseera)
+### 1️⃣ [البصيرة](https://github.com/Sedghimohammadamin/Al-baseera)
 
 **📖 ملخص المشروع:**  
 «البصيرة» تطبيق متعدد اللغات للوصول إلى محتوى واسع، يعمل **أونلاين وأوفلاين** 🔄.
@@ -146,7 +138,7 @@ Mahdi TV is a versatile mobile app combining multiple tools including **Live Str
 
 ---
 
-### 2️⃣ [مهدي تي في](https://github.com/Sedghimohammadamin/MahdiTV)
+### 2️⃣ [مهدي تي في](https://github.com/Sedghimohammadamin/Mahdi-tv)
 
 **📖 ملخص المشروع:**  
 «مهدي تي في» تطبيق محمول متعدد الوظائف مع أدوات مختلفة مثل **البث المباشر** 📺 و **تلاوة القرآن الصوتية** 🎧. يدعم عدة لغات 🌐 وثيمات 🎨.
