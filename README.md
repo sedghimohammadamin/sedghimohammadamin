@@ -2,6 +2,26 @@
 
 ---
 
+## 📑 Table of Contents / فهرست / الفهرس  
+
+<div style="background-color:#F9F9F9; padding:12px; border-radius:10px;">
+
+### 🇬🇧 English
+- [Al-Baseera](#1️⃣-al-baseera)  
+- [Mahdi TV](#2️⃣-mahdi-tv)  
+
+### 🇮🇷 فارسی
+- [بصیرت](#1️⃣-بصیرت)  
+- [مهدی تی‌وی](#2️⃣-مهدی-تی-وی)  
+
+### 🇸🇦 العربية
+- [البصيرة](#1️⃣-البصيرة)  
+- [مهدي تي في](#2️⃣-مهدي-تي-في)  
+
+</div>
+
+---
+
 ## 🇬🇧 English Version
 
 Welcome! Explore my mobile applications, showcasing skills in **Flutter**, **Clean Architecture**, **Provider & Custom Architecture**, **State Management**, and **Hybrid Data Handling**.  
